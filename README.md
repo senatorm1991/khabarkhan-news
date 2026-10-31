@@ -1,2 +1,9 @@
-# khabarkhan-news
-Persian news reader for Android, light on data, with built-in Tor
+# خبرخوان
+
+اپ اندرویدی سبک برای خواندن خبر فارسی روی اینترنت ضعیف.
+
+منابع: صدای آمریکا (ir.voanews.com)، بی‌بی‌سی فارسی، رادیو فردا، hpip.blogspot.com، پسکوچه
+
+- ذخیره‌ی آفلاین تیترها، نمایش بدون عکس به‌صورت پیش‌فرض، دریافت متن کامل فقط در صورت نیاز
+- تور داخلی برای عبور از فیلترینگ، یا اتصال به پروکسی SOCKS دلخواه (Psiphon، Orbot، v2rayNG)
+- ساخت خودکار APK با GitHub Actions؛ فایل نهایی در بخش Releases
